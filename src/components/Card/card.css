@@ -1,0 +1,25 @@
+
+.card-container {
+    font-size: 20px;
+    font-family: revert;
+}
+.total-price {
+    color: red;
+    font-size: 25px;
+    font-weight: 500;
+}
+.tax{
+    border-bottom: 1px solid gray;
+}
+button.order-revew {
+    margin: 20px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    font-family: ui-monospace;
+    border: cyan;
+    cursor: pointer;
+    
+}

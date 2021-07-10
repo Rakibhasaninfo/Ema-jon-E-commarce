@@ -1,0 +1,43 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+}
+.product-name{
+    color: rgb(33, 33, 233);
+    font-weight: 400;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.product-btn{
+    background-color: goldenrod;
+    width: 170px;
+    height: 38px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    color: black;
+    font-weight: 500;
+    font-size: 20px;
+    box-shadow: gray 5px 5px 10px 0px;
+    cursor: pointer;
+    margin-bottom: 20px;
+    
+}
+.product-contant{
+    margin-left: 20px;
+
+}
+.product-price{
+    
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    margin: 0;
+}
+.stock{
+    margin: 0;
+}
